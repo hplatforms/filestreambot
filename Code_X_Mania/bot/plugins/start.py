@@ -71,7 +71,7 @@ async def start(b, m):
             parse_mode="HTML",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('Kanal', url=f"https://t.me/trbotlar"),
-                                                                                       InlineKeyboardButton('Destek', url=https://t.me/trbotlarsohbet) ] ]  ) )
+                                                                                       InlineKeyboardButton('Takip ', url='https://github.com/code-x-mania') ] ]  ) )
                                                                                        
                                                                                        
                                                                             
